@@ -1,0 +1,11 @@
+hitch-hiker
+life, the universe, and everything
+galaxy
+
+310192
+USE vsearchlogDB;
+SELECT * FROM log;
+
+Создание файла дистрибутива в Windows
+C:\Users\demia\Book\Flask\webapp\mymodules>py -3 setup.py sdist
+C:\Users\demia\Book\Flask\webapp\mymodules>py -3 -m install vsearch-1.0.zip
